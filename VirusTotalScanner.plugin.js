@@ -1,10 +1,10 @@
 /**
  * @name VirusTotalScanner
- * @author YourName
+ * @author Crux4000
  * @description Advanced link scanning using VirusTotal API with collection and graph management
  * @version 0.5.0
- * @website https://github.com/yourusername/bd-virustotal
- * @source https://github.com/yourusername/bd-virustotal
+ * @website https://github.com/Crux4000/BetterDiscordPlugins
+ * @source https://github.com/Crux4000/BetterDiscordPlugins
  */
 
 // Collection Manager - For creating and managing VirusTotal collections and graphs
