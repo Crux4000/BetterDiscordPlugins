@@ -6,6 +6,8 @@ Better Discord Plugins That Barely Work
 
 A powerful BetterDiscord plugin that scans links in Discord messages using the VirusTotal API to identify potential security threats.
 
+![Screenshot of VirusTotalScanner in action](https://i.imgur.com/IMAGEID.png)
+
 
 
 ## Features
