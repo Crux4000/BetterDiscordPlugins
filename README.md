@@ -8,7 +8,7 @@ A powerful BetterDiscord plugin that scans links in Discord messages using the V
 
 ![Screenshot of VirusTotalScanner in action](https://i.imgur.com/qwMnlSy.png)
 
-
+![scan_button](https://i.imgur.com/5JKIpsx.png)
 
 ## Features
 
